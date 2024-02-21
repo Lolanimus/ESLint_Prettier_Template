@@ -1,2 +1,2 @@
-# ESLint_Prettier_Template
-A template for projects that use ESLint and Prettier 
+# Template1
+A template for projects that use Webpack, ESLint and Prettier
